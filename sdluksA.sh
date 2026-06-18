@@ -20,7 +20,7 @@ sudo cryptsetup luksOpen /dev/block/mmcblk$x $label
 su -c mkdir -p /data/data/com.termux/files/usr/mnt/encrypted
 su -c nsenter -t 1 -m -- mount -t vfat -o rw,uid=0,gid=0 /dev/mapper/$label /mnt/$label
 
-echo "LUKS-Encrypted SD card has been mounted at: /data/data/com.termux/files/usr/mnt/encrypted"
+echo "LUKS-Encrypted SD card has been decrypted and mounted at: /data/data/com.termux/files/usr/mnt/encrypted"
 
 # It's Done!
 
