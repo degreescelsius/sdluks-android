@@ -9,6 +9,8 @@ Simple, yet effective way to mount your LUKS-Encrypted SD cards on Android.
 
 - Root access
 
+**The following prerequisites can be automatically installed by running the prerequisites.sh script.**
+
 - The root-repo installed inside of Termux (apt install root-repo)
 
 - Cryptsetup installed
