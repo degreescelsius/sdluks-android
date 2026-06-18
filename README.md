@@ -1,7 +1,7 @@
 # sdluks-android
 Simple, yet effective way to mount your LUKS-Encrypted SD cards on Android.
 
-> **Warning:** To be able to use this shell script you need a Rooted Android device. I am not responsible in case of any data loss, data corruption or any type of negative outcomes that may occur. By running this script, you acknowledge the risks of running anything with root privilages, including all the scripts you may find in this repository.
+> **Warning:** To be able to use this project you need a Rooted Android device. I am not responsible in case of any data loss, data corruption or any type of negative outcomes that may occur. By running this script, you acknowledge the risks of running anything with root privilages, including all the scripts you may find in this repository.
 
 # Prerequisites:
 
